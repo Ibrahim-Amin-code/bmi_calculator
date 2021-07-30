@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'modules/bmi/bmi_screen.dart';
 
 void main(){
-  // Bloc.observer = MyBlocObserver();
+
   runApp(MyApp());
 }
 
